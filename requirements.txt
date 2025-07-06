@@ -8,3 +8,6 @@ transformers==4.28.1
 scikit-learn==1.4.1.post1
 torch==2.5.1+cpu
 reportlab==4.0.9
+matplotlib==3.8.4
+tokenizers==0.13.3
+sentencepiece==0.1.99
