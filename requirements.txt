@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+keybert==0.7.0
+sentence-transformers==2.2.2
+transformers==4.28.1
+scikit-learn
+torch
+reportlab
